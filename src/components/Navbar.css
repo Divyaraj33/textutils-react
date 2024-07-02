@@ -1,0 +1,5 @@
+.edit:hover{
+    color:blue;
+    border-bottom: 2px solid blue;
+    font-weight: bold;
+}
